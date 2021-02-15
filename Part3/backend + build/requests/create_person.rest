@@ -1,0 +1,7 @@
+POST https://powerful-beach-84023.herokuapp.com/api/persons
+Content-type: application/json
+
+{
+    "name": "Adelaide Celio",
+    "number":"0486-45458"
+}
